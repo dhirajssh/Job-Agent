@@ -29,6 +29,7 @@ Prioritize entry-level positions in software engineering, AI automation, or soft
 - Job boards that are likely just marketting a bunch of jobs.
 - Articles or just job sites which aren't the link of a job role.
 - Roles more that 1 week old
+- Github Repositories
  
 # Output
  
