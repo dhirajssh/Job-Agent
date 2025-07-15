@@ -23,6 +23,7 @@ Prioritize entry-level positions in software engineering, AI automation, or soft
 -- Mathworks
 -- Cisco
 - Jobs that are likely to hire New Grads.
+- A single role rather than multiple roles. If it is multiple roles then it is most likely a job board
  
 # Example of what is not relevant
  
@@ -30,6 +31,7 @@ Prioritize entry-level positions in software engineering, AI automation, or soft
 - Articles or just job sites which aren't the link of a job role.
 - Roles more that 1 week old
 - Github Repositories
+- No job boards like jobright or Simplify or Handshake
  
 # Output
  
