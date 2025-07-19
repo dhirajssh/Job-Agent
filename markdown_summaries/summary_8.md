@@ -1,9 +1,9 @@
 ### Job Summary
-      - **Company Name:** Amazon
-      - **Role Name:** Software Development Engineer I (new grad)
-      - **Description:** The role involves software development tasks as part of a team at Amazon.
-      - **Location:** Seattle, WA
-      - **Skills Required:** Experience with data structures, algorithms, and technical concepts. Skills tested include LeetCode questions at various difficulty levels.
-      - **Experience Level:** New grad position
+      - **Company Name:** Jobright.ai
+      - **Role Name:** AI Automation & Growth Analyst
+      - **Description:** As an AI Automation & Growth Analyst, you will be developing and deploying AI-powered applications that enhance decision-making and streamline workflows, supporting strategic growth. This includes building custom AI tools, driving rapid prototyping, automating core business processes, developing full-stack solutions, supporting process mapping, and collaborating to drive innovation.
+      - **Location:** Los Angeles, CA
+      - **Skills Required:** Bachelor's degree in Computer Science, Information Systems, Business Administration, Data Science, or related field. Hands-on experience building AI applications, strong programming skills in frameworks like Next.js, React, and Django, familiarity with AI-native tools, and strong analytical and communication skills are required.
+      - **Experience Level:** Entry level
       - **Sponsorship Available:** No
       

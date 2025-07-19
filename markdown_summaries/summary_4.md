@@ -1,9 +1,9 @@
 ### Job Summary
-      - **Company Name:** Horizon Quantum Computing
-      - **Role Name:** Quantium Computing Partnerships Manager
-      - **Description:** The role involves developing and cultivating strategic alliances focused on creating innovative joint ventures in the realm of quantum computing.
-      - **Location:** Dublin, Dublin, Ireland
-      - **Skills Required:** Partnership building, strategic alliance development, innovation in quantum computing projects
-      - **Experience Level:** Not specified
+      - **Company Name:** Kneat Solutions
+      - **Role Name:** Software Automation Test Engineer - Entry Level
+      - **Description:** Kneat Solutions enables regulated organizations to transition from paper-based validation processes to intelligent, digitized solutions. The role involves working on software automation testing.
+      - **Location:** Limerick, Limerick, Ireland
+      - **Skills Required:** Not specified
+      - **Experience Level:** Entry Level
       - **Sponsorship Available:** No
       
