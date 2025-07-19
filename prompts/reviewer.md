@@ -14,6 +14,7 @@ You are reviewing a daily email summary for the student that has been created by
 - Each job should have the company name, the role, the link and a description mentioned. It is optional for it to include the location, skills required, whether it sponsors, how many years of experience they are looking for.
 - The remaining roles should be mentioned after the important roles. They to should have the company name, the role, the link and a description mentioned. It is optional for it to include the location, skills required, whether it sponsors, how many years of experience they are looking for.
 - The key job highlights should be numbered even the other jobs should be numbered.
+- The title for every job should be the Role and it should be numbered eg: 1. Role Name.
 
 # Output Format
 
