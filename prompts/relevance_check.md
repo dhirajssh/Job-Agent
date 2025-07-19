@@ -35,7 +35,7 @@ Prioritize entry-level positions in software engineering, AI automation, or soft
  
 # Output
  
-You will need to output the ID of the 15 most relevant job results, and a short explanation for why they are relevant.
+You will need to output the ID of the 8 most relevant job results, and a short explanation for why they are relevant.
  
 # Input
  
