@@ -2,7 +2,7 @@
 
 ## Key Job Highlights
 
-### Job1
+### 1. Job1
 - Company
 - Role
 - Short Description
@@ -12,7 +12,7 @@
 - Whether it Sponsors
 - link
 
-### Job2
+### 2. Job2
 - Company
 - Role
 - Short Description
@@ -26,7 +26,7 @@ Continue up to 5
 
 ## Other Jobs Related to your Resume
 
-### Job1
+### 1. Job1
 - Company
 - Role
 - Short Description
