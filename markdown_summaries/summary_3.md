@@ -1,39 +1,47 @@
-# Job Summary for Entry Level Software Engineer Position with Robert Half
+# Job Summary: AI Automation Test Engineer - Charlotte, NC
 
-## Position Details:
-- **Role**: Software Engineer II – Contractor
-- **Location**: Chicago, IL (onsite only)
-- **Type**: Temporary (10-month duration with potential for extension)
-- **Compensation**: $45.00 - $50.00 per hour
-- **Posted Date**: July 14, 2025
+**Company:** Jobs via Dice  
+**Location:** Charlotte, NC  
+**Employment Type:** Contract  
+**Seniority Level:** Mid-Senior level  
+**Date Posted:** 9 hours ago from the reference time 
 
-## Job Responsibilities:
-- Enhance, maintain, and support an enterprise-level 24/7 production system.
-- Develop and troubleshoot customer-facing APIs and related workflows.
-- Undertake tasks in a collaborative and innovative environment.
-- Manage Java-and-SQL-based file production systems.
-- Work in collaboration with QA and development teams to translate product requirements into software designs.
-- Troubleshoot and resolve workflow and bug issues.
-- Adhere to development best practices, coding standards, and code review processes.
-- Address issues identified by security scans.
-- Occasionally support Java/Spring APIs, including REST, SOAP, and GraphQL.
+## Job Responsibilities
+- Foster a culture of zero defects leaking into production.
+- Collaborate across teams to align on enterprise quality requirements.
+- Implement a shift-left test strategy for business lines.
+- Utilize open-source frameworks and tools in the automated CI/CD pipeline.
+- Engage in Agile (Scrum) processes with a customer-focused testing approach.
+- Work with teams on test environment and data management strategies.
+- Analyze user stories to define necessary tests at all levels.
 
-## Candidate Requirements:
-- This is an entry-level role ideally suited for candidates with foundational skills in software engineering.
-- Capable, responsible, self-directed, and effective in collaborative and diverse environments.
-- Hands-on experience with Java and SQL.
-- Familiarity with REST, SOAP, and GraphQL APIs is a plus.
-- Ability to adhere to coding standards and participate in code review processes.
-- Strong troubleshooting skills.
+## Qualifications
+- Extensive experience (5+ years) in testing automation engineering, including both functional and API-based testing.
+- Educational background preferable in Computer Science, Engineering, or related fields (BS/MS).
+- Strong coding skills, specifically in Python.
+- Proficiency with SQL for data querying.
 
-## Working Environment:
-- Engaging with a 24/7 enterprise-level system.
-- Onsite position in Chicago, IL.
-- Temporary role with room for contract extension based on performance.
+## Required Skills/Experience
+- Experience writing test scripts using multiple services and reporting results.
+- Skilled in AWS services like S3, Lambda, and DynamoDB.
+- Familiarity with CI/CD technologies including GIT, GitLab, Docker.
+- Knowledge of modern AI paradigms (e.g., large language models, classification models).
 
-## Additional Information:
-- Robert Half is an equal opportunity employer committed to diversity and inclusion.
-- Provides competitive compensation and benefits for contract/temporary professionals.
-- Mandates legal authorization to work in the U.S.
+## Preferred Skills/Experience
+- Expertise in automating API tests with mock services.
+- Strong understanding of the solution stack testing.
+- Experience with AI implementation testing.
+- Bonus if experienced in financial services technology or with Genesys IVR and Salesforce.
 
-This role is a suitable opportunity for a master's student with a background in software development, particularly those looking to gain practical experience at the enterprise level while enhancing their skills in Java and system maintenance.
+## Additional Skills
+- Knowledge in testing best practices, white box testing, and complete software development lifecycle.
+- Experience with Python ML/AI libraries like Spacy, nltk.
+- Strong troubleshooting and root cause analysis skills.
+- Excellent communication skills, both written and verbal.
+
+## Major Plus
+- Provide feedback on Merge/Pull Requests.
+- Knowledge in shift-left test practices and frameworks.
+- Soft skills include high communication clarity and collaborative independence.
+
+**Note:** This role offers an excellent compensation package through Digital Technology Solutions (DTS). The role encourages applications through Dice as a direct client position is available in Charlotte, NC.

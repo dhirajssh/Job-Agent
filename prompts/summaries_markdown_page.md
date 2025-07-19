@@ -8,7 +8,7 @@ You will be given a markdown file of an online job. Your task is to read the job
 
 # Output
 
-Markdown formatted text containing a detailed summary of the job, including relevant requirements, skills, experience level required and date of job posting.
+Provide a detailed summary of the job, including relevant requirements, skills, experience level, available job locations, and the date the job was posted.
 
 # Input
 
